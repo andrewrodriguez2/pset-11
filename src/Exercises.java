@@ -13,7 +13,7 @@ public class Exercises {
   public int findMeFaster(ArrayList<Integer> list, int target) {
     return -1;
   }
-.
+..
   public int findMeFaster(String[] list, String target) {
     return -1;
   }
